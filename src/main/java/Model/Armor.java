@@ -1,10 +1,28 @@
 package Model;
 
+import jakarta.persistence.*;
+
+@Entity
+@Table(name = "ARMORS")
 public class Armor extends Item {
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+
+    @Column(nullable = false)
     private String set;
+
+    @Column(nullable = false)
     private int stat;
+
+    @Column(name = "stat_ench", nullable = true)
     private String statEnch;
+
+    @Column(nullable = false)
     private String part;
+
+
+    public Armor() {}
 
     public String getSet() {
         return set;
@@ -47,4 +65,11 @@ public class Armor extends Item {
         this.part = part;
     }
 
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public Long getId() {
+        return id;
+    }
 }
