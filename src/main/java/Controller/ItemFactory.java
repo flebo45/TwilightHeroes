@@ -1,13 +1,13 @@
 package Controller;
 
-import Model.Armor;
-import Model.Weapon;
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+
+import Model.Armor;
+import Model.Weapon;
 
 public class ItemFactory {
 

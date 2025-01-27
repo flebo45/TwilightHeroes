@@ -1,11 +1,15 @@
 package Controller;
 
-import Model.*;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Random;
+
+import Model.Armor;
+import Model.Consumables;
+import Model.Monster;
+import Model.Room;
+import Model.Weapon;
 
 public class MapPopulator {
 
@@ -125,8 +129,8 @@ public class MapPopulator {
         List<int[]> availableRooms = new ArrayList<>();
 
         // Aggiungi tutte le coordinate delle stanze disponibili
-        for (int i = 0; i < size; i++) {
-            for (int j = 0; j < size; j++) {
+        for (int i = 1; i < size; i++) {
+            for (int j = 1; j < size; j++) {
                 availableRooms.add(new int[]{i, j});
             }
         }

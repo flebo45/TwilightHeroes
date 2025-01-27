@@ -1,12 +1,18 @@
 package Controller;
 
-import Model.*;
-import View.Menu;
-
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
+import Model.Armor;
+import Model.Consumables;
+import Model.GameDifficulty;
+import Model.Item;
+import Model.Monster;
+import Model.Player;
+import Model.Room;
+import Model.Weapon;
+import View.Menu;
 
 public class Master {
         private final Menu menu;
@@ -48,8 +54,8 @@ public class Master {
          
 
         public void displayCurrentRoom() {
-            System.out.println(player.getPostition().getName());
-            System.out.println(player.getPostition().getDescription());
+            System.out.println(player.getPosition().getName());
+            System.out.println(player.getPosition().getDescription());
         }
 
  
@@ -70,26 +76,26 @@ public class Master {
             MapPopulator.populateMapWithWeapons(maze, weapons);
             player.setPosition(maze[1][0]);
             printMaze();
-            System.out.println(player.getPostition().getName());
-            System.out.println(player.getPostition().getPositionX());
-            System.out.println(player.getPostition().getPositionY());
+            System.out.println(player.getPosition().getName());
+            System.out.println(player.getPosition().getPositionX());
+            System.out.println(player.getPosition().getPositionY());
             System.out.println("\nBenvenuto, " + player.getName());
             Scanner scanner = new Scanner(System.in);
                 boolean gameRunning = true;
                 displayCurrentRoom();
                 while (gameRunning) {
-                    /* 
-                    if (!currentRoom.getMonsters().isEmpty()) {
-                        Model.Monster monster = currentRoom.getMonsters().get(0);
+                    if (player.getPosition().getMonster() != null) {
+                        Model.Monster monster = player.getPosition().getMonster();
                         System.out.println("C'è un mostro qui: " + monster.getName() + "!");
-                        boolean won = player.fight(monster);
+                        boolean won = CombatSystem.startCombat(player, monster);
                         if (!won) {
-                            System.out.println("Hai perso. Fine del gioco.");
+                            System.out.println("Sei stato sconfitto.");
                             gameRunning = false;
                             continue;
                         }
-                        currentRoom.getMonsters().remove(monster); // Rimuovi il mostro sconfitto
-                    }*/
+                        System.out.println("Hai sconfitto: "+ monster.getName());
+                        player.getPosition().setMonster(null); // Rimuovi il mostro sconfitto
+                    }
                     
                     System.out.println("\nCosa vuoi fare?");
                     System.out.println("1. Muoviti");
@@ -104,7 +110,7 @@ public class Master {
                         case "1" -> // Movimento
                             movePlayer(scanner);
                         case "2" -> // Esamina la stanza
-                            examineRoom(player.getPostition());
+                            examineRoom(player.getPosition());
                         case "3" -> // Controlla inventario
                             checkInventory();
                         case "4" -> 
@@ -131,8 +137,8 @@ public class Master {
       
     
         String action = scanner.nextLine().toLowerCase(); // Legge il comando dell'utente
-        int currentX = player.getPostition().getPositionX();
-        int currentY = player.getPostition().getPositionY();
+        int currentX = player.getPosition().getPositionX();
+        int currentY = player.getPosition().getPositionY();
     
         int newX = currentX, newY = currentY; // Nuove coordinate
     
@@ -157,30 +163,6 @@ public class Master {
         }
         printMaze();
     }
-
-    private List<Room> getAdjacentRooms(Room currentRoom) {
-        List<Room> adjacentRooms = new ArrayList<>();
-        int x = currentRoom.getPositionX();
-        int y = currentRoom.getPositionY();
-    
-        int[][] directions = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}}; // Su, Giù, Sinistra, Destra
-    
-        for (int[] dir : directions) {
-            int newX = x + dir[0];
-            int newY = y + dir[1];
-    
-            // Controlla che gli indici siano dentro i confini della matrice
-            if (newX >= 0 && newX < maze.length && newY >= 0 && newY < maze[0].length) {
-                if (maze[newX][newY] != null) {
-                    adjacentRooms.add(maze[newX][newY]);
-                }
-            }
-        }
-    
-        return adjacentRooms;
-    }
-    
-     
 
     private void examineRoom(Room currentRoom) {
         System.out.println("Esamini la stanza...");
@@ -239,7 +221,7 @@ public class Master {
         private void printMaze(){
             for (int i = 0; i < maze.length; i++) {
             for (int j = 0; j < maze[i].length; j++) {
-                if (player.getPostition().getPositionX() == i && player.getPostition().getPositionY() == j) {
+                if (player.getPosition().getPositionX() == i && player.getPosition().getPositionY() == j) {
                     System.out.print("P"); // Indica la posizione del giocatore
                 } else if (maze[i][j] == null) {
                     System.out.print("#"); // Muro

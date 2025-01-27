@@ -2,65 +2,20 @@ package Model;
 
 import java.util.Scanner;
 
-public class Player {
-    private String name;
-    private int HP;
-    private int STR;
-    private int magic_DEF;
-    private int physic_DEF;
+public class Player extends Personage {
     private int mana;
     private int luck;
-    private int AGL;
     private int Money;
     private Armor[] equipment;
     private Weapon weapon;
     private Inventory inventory;
-    private Room position;
     private int currentHP;
     private int currentMN; 
 
     
     public Player() {}
     
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public int getHP() {
-        return HP;
-    }
-
-    public void setHP(int HP) {
-        this.HP = HP;
-    }
-
-    public int getSTR() {
-        return STR;
-    }
-
-    public void setSTR(int STR) {
-        this.STR = STR;
-    }
-
-    public int getMagic_DEF() {
-        return magic_DEF;
-    }
-
-    public void setMagic_DEF(int magic_DEF) {
-        this.magic_DEF = magic_DEF;
-    }
-
-    public int getPhysic_DEF() {
-        return physic_DEF;
-    }
-
-    public void setPhysic_DEF(int physic_DEF) {
-        this.physic_DEF = physic_DEF;
-    }
+   
 
     public int getMana() {
         return mana;
@@ -78,14 +33,7 @@ public class Player {
         this.luck = luck;
     }
 
-    public int getAGL() {
-        return AGL;
-    }
-
-    public void setAGL(int AGL) {
-        this.AGL = AGL;
-    }
-
+   
     public int getMoney() {
         return Money;
     }
@@ -110,15 +58,6 @@ public class Player {
         this.inventory = inventory;
     }
     
-    public void setPosition(Room room) {
-        this.position = room;
-    }
-
-   public Room getPostition(){
-    return position;
-   }
-
-
     public void pgGenerator(Player player){
         
             @SuppressWarnings("resource")
