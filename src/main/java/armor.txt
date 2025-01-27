@@ -1,0 +1,245 @@
+
+Elmo del Tizzone Ardente
+Un elmo che sprigiona un bagliore rossastro, incutendo timore ai nemici.
+Fiamma Eterna
+elmo
+5
+forza
+
+Corazza del Vulcano Dormiente
+ Una corazza ricoperta di creste simili a colate laviche indurite.
+Fiamma Eterna
+corazza
+5
+forza
+
+Guanti delle Scintille Furiose
+ Guanti che lasciano una scia di scintille con ogni movimento.
+Fiamma Eterna
+guanti
+5
+forza
+
+Gambali della Cenere Immortale
+ Gambali neri come carbone, leggeri e resistenti al calore.
+Fiamma Eterna
+gambali
+5
+forza
+
+Anello del Solco Infuocato
+ Un anello dorato con una fessura che sembra contenere lava in movimento.
+Fiamma Eterna
+anello
+5
+forza
+
+Elmo del Fulmine Infinito
+ Un elmo decorato con simboli che evocano le nubi temporalesche.
+Guardiano delle Tempeste
+elmo
+5
+forza
+
+Corazza del Rimbombo Celeste
+ Una corazza che emette un basso rimbombo quando viene colpita.
+Guardiano delle Tempeste
+corazza
+5
+forza
+
+Guanti delle Saette
+ Guanti adornati con piccole punte metalliche che ricordano fulmini.
+Guardiano delle Tempeste
+guanti
+5
+forza
+
+Gambali del Tuono Ruggente
+ Gambali che amplificano il rumore dei passi, intimidendo gli avversari.
+Guardiano delle Tempeste
+gambali
+5
+forza
+
+Anello della Tempesta Silente
+ Un anello di metallo argentato, con un’onda scolpita lungo la sua superficie.
+Guardiano delle Tempeste
+anello
+5
+forza
+
+Cappuccio del Crepuscolo
+ Un elmo a forma di cappuccio che avvolge il volto in ombra.
+Ombra Senza Fine
+elmo
+5
+forza
+
+Corazza dell’Abisso Profondo
+ Una corazza nera che sembra assorbire la luce circostante.
+Ombra Senza Fine
+corazza
+5
+forza
+
+Guanti della Morsa Invisibile
+ Guanti leggeri che permettono movimenti rapidi e precisi.
+Ombra Senza Fine
+guanti
+5
+forza
+
+Gambali della Notte Silente
+ Gambali rinforzati che non producono alcun rumore durante il movimento.
+Ombra Senza Fine
+gambali
+5
+forza
+
+Anello dell’Eclissi Incompleta
+ Un anello nero con un piccolo cerchio luminoso al centro.
+Ombra Senza Fine
+anello
+5
+forza
+
+Elmo delle Radici Intrecciate
+ Un elmo che simula la forma di radici nodose.
+Quercia Antica
+elmo
+5
+forza
+
+Corazza della Corteccia Vivente
+ Una corazza fatta di legno vivo, che pulsa leggermente al tatto.
+Quercia Antica
+corazza
+5
+forza
+
+Guanti delle Foglie Protettive
+Guanti ornati con foglie che sembrano cambiare colore con le stagioni.
+Quercia Antica
+guanti
+5
+forza
+
+Gambali delle Rami Forti
+ Gambali decorati con incisioni che rappresentano tronchi di alberi.
+Quercia Antica
+gambali
+5
+forza
+
+Anello della Ghianda Eterna
+ Un anello con una piccola ghianda dorata incastonata nel metallo.
+Quercia Antica
+anello
+5
+forza
+
+Elmo della Testa di Drago
+ Un elmo che riproduce le sembianze di un drago con fauci spalancate.
+Drago Cremisi
+elmo
+5
+forza
+
+Corazza delle Scaglie di Fuoco
+ Una corazza coperta di scaglie rosse scintillanti come rubini.
+Drago Cremisi
+corazza
+5
+forza
+
+Guanti degli Artigli Ardenti
+ Guanti che terminano in lame affilate simili ad artigli.
+Drago Cremisi
+guanti
+5
+forza
+
+Gambali della Coda Possente
+ Gambali decorati con motivi che richiamano una coda di drago.
+Drago Cremisi
+gambali
+5
+forza
+
+Anello del Respiro Infuocato
+ Un anello di pietra vulcanica con venature rosse luminose.
+Drago Cremisi
+anello
+5
+forza
+
+Elmo della Gloria Radiosa
+ Un elmo d’argento con un’aureola incisa nella sommità.
+Cavaliere Celestiale
+elmo
+5
+forza
+
+Corazza dell’Alba Dorata
+ Una corazza che sembra riflettere la luce del sole nascente.
+Cavaliere Celestiale
+corazza
+5
+forza
+
+Guanti del Tocco Divino
+ Guanti ricamati con rune dorate che emanano calore.
+Cavaliere Celestiale
+guanti
+5
+forza
+
+Gambali della Marcia Luminosa
+ Gambali ornati con simboli angelici.
+Cavaliere Celestiale
+gambali
+5
+forza
+
+Anello della Grazia Immortale
+ Un anello d’oro puro con un cristallo bianco al centro.
+Cavaliere Celestiale
+anello
+5
+forza
+
+Elmo della Cresta Oceanica
+ Un elmo ornato con un’increspatura simile a quella delle onde.
+Mare Infinito
+elmo
+5
+forza
+
+Corazza delle Correnti Profonde
+ Una corazza che riflette i colori del mare.
+Mare Infinito
+corazza
+5
+forza
+
+Guanti delle Perle Nascoste
+ Guanti decorati con piccole perle bianche.
+Mare Infinito
+guanti
+5
+forza
+
+Gambali della Risacca
+ Gambali che sembrano essere stati modellati dal moto delle onde.
+Mare Infinito
+gambali
+5
+forza
+
+Anello del Corallo Azzurro
+ Un anello con un piccolo frammento di corallo blu incastonato.
+Mare Infinito
+anello
+5
+forza

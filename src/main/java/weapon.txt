@@ -1,0 +1,244 @@
+
+
+Lama del Sole Infranto
+Una spada leggendaria che brilla come il sole al tramonto.
+Taglio Raggiante
+Fendente della Luce Spezzata
+20
+25
+90
+75
+
+
+Mordigelo
+Una spada corta avvolta da un'aura di gelo eterno.
+Assalto Gelido
+Raggio di Brina
+25
+27
+85
+60
+
+Furia delle Ombre
+Una spada lunga che sussurra segreti oscuri al suo portatore.
+Danza dell’Ombra
+Lacerazione Spettrale
+25
+30
+75
+50
+
+
+Ascia del Terrore
+Un’arma massiccia con un teschio inciso nella lama.
+Squarcio del Terrore
+Colpo Frantumante
+25
+27
+75
+60
+
+Rovina della Quercia
+Un’ascia doppia con venature che ricordano radici.
+Colpo di Radice
+Abbattimento Selvaggio
+25
+27
+75
+60
+
+Cantico del Sangue
+Un’ascia rituale che sembra cantare durante il combattimento.
+Rapsodia Cremisi
+Taglio Sanguinario
+25
+27
+75
+60
+
+Lancia dei Cieli Tempestosi
+Una lancia che emette scariche elettriche.
+Fulmine Penetrante
+Carica della Tempesta
+24
+24
+80
+80
+
+Punta della Serpe
+Una lancia decorata con scaglie di serpente.
+Morso Velenoso
+Colpo Avvelenato
+25
+27
+75
+60
+
+Custode della Luce
+Una lancia dorata con un'aura protettiva.
+Giuramento del Guardiano
+Spinta Celestiale
+25
+27
+75
+60
+
+Arco del Sussurro Silente
+Un arco che emette un suono quasi impercettibile quando scocca frecce.
+Freccia Silenziosa
+Colpo dell’Invisibile
+25
+27
+75
+60
+
+Artiglio del Cacciatore
+Un arco ricurvo, decorato con zanne e artigli.
+Freccia Predatoria
+Assalto del Branco
+25
+27
+75
+60
+
+Eco della Foresta
+Un arco magico che si mimetizza con la natura.
+Freccia della Radura
+Assalto Arboreo
+25
+27
+75
+60
+
+Martello del Tuono
+Un’arma pesante che scatena onde d’urto ad ogni colpo.
+Colpo Tonante
+Impatto Risonante
+25
+27
+75
+60
+
+Frantumatore d’Ossa
+Un martello ornato da simboli tribali.
+Colpo Brucia-Ossa
+Martellata Selvaggia
+25
+27
+75
+60
+
+Custode delle Montagne
+Un martello gigante che sembra intagliato nella roccia.
+Schianto della Terra
+Frantumazione Rocciosa
+25
+27
+75
+60
+
+Soffio del Drago Cremisi
+Un bastone avvolto da una fiamma eterna.
+Fiammata Ardente
+Sibilo di Fuoco
+25
+27
+75
+60
+
+Radice del Saggio
+Un bastone cresciuto naturalmente, carico di energia vitale.
+Vite Assalente
+Rinvigorimento Selvaggio
+25
+27
+
+Cantore del Vuoto
+Un bastone nero che emette un’energia misteriosa.
+Lamento del Vuoto
+Impulso Oscuro
+25
+27
+75
+60
+
+Artiglio del Ladro
+Un pugnale affilato che garantisce rapidità nei movimenti.
+Colpo Rapido
+Fendente Furtivo
+25
+27
+75
+60
+
+Zanna dell’Abisso
+Un pugnale oscuro, affilato come i denti di una bestia.
+Stoccata Mortale
+Morso Letale
+25
+27
+75
+60
+
+Danza della Morte
+Un pugnale leggero e decorato con incisioni eleganti.
+Danza del Predatore
+Affondo Finale
+25
+27
+75
+60
+
+Serpe Incandescente
+Una frusta che emette scintille ad ogni movimento.
+Frustata Fulminea
+Colpo del Serpente
+25
+27
+75
+60
+
+Frusta delle Ombre
+Una frusta avvolta da un’aura oscura.
+Stretta Oscura
+Scatto dell’Abisso
+25
+27
+75
+60
+
+Legaccio dell’Anima
+Una frusta che sembra risucchiare la forza vitale dei nemici.
+Stretta Vitale
+Laccio Sanguinario
+25
+27
+75
+60
+
+Spaccacrani
+Una mazza pesante con spuntoni metallici.
+Colpo Brutale
+Devastazione Totale
+25
+27
+75
+60
+
+Mazza del Giudizio
+Un’arma sacra che giudica i malvagi.
+Colpo Purificatore
+Martello della Fede
+25
+27
+75
+60
+
+Furia Selvaggia
+Una mazza decorata con ossa e piume.
+Schianto Primitivo
+Assalto Frenetico
+25
+27
+75
+60

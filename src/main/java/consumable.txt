@@ -1,0 +1,169 @@
+Essenza della Vitalità
+Ripristina completamente la salute.
+status
+120
+0
+
+Pozione del Sangue di Ferro
+Aumenta la difesa di 5 per 5 turni.
+time 
+physic_DEF
+5
+5
+
+Gocce di Nebbia Oscura
+Rende difficili da colpire, aumentando l’evasione per 3 turni.
+time
+agl
+10
+5
+
+Tonico del Ruggito del Drago
+Potenzia il danno di 5  per 3 turni.
+time
+dmg
+5
+3
+
+
+Bacche delle Ombre
+Rende immune a danni per 1 turni.
+immune
+
+Torta del Gigante
+Aumenta la forza fisica di 5 per 2 turni.
+time
+str
+5
+3
+
+
+Fiore del Rinvigorimento
+Cura una ferita media.
+status
+50
+0
+
+Radice del Vulcano Dormiente
+Infligge danni da fuoco ad area su consumo.
+magic
+dmgD
+15
+
+Scheggia della Tempesta
+Scatena una piccola scarica elettrica all’impatto.
+magic
+dmgD
+20
+
+Cristallo del Sangue Sussurrante
+Cura una ferita grave al costo di una piccola quantità di salute massima.
+hp
+90
+-20
+
+Pergamena del Soffio Ardente
+Scatena un cono di fuoco frontale.
+magic
+dmgD
+25
+
+Sigillo della Fuga Sicura
+Teletrasporta il consumatore all’ingresso del dungeon.
+teletrasporto
+
+
+Pergamena dell’Ombra Protettiva
+Crea uno scudo che riduce il 50% del danno per 3 turni.
+daamgeReduction
+
+
+Olio della Lentezza Eterna
+Rallenta i movimenti di un nemico.
+slow
+
+Olio della Rifrazione
+Rende difficili da colpire, riflettendo parte dei danni.
+reflect
+
+Unguento della Pelle di Pietra
+Trasforma temporaneamente la pelle in pietra, aumentando la difesa.
+time
+physic_DEF
+7
+2
+
+ Polvere di Stasi
+Blocca il movimento di un nemico per 1 turno.
+statue
+
+Cenere del Deserto
+Causa accecamento temporaneo.
+blind
+
+Sabbia della Disperazione
+Rende un nemico vulnerabile ai danni per 3 trni.
+vulnerable
+
+Ampolla della Rabbia Controllata
+Aumenta il danno inflitto, ma riduce l’evasione.
+special
+dmg
+10
+4
+agl
+
+
+Siero della Concentrazione Profonda
+Recupera tutto il mana.
+status
+0
+100 
+
+Elisir della Forza Divina
+Raddoppia la forza per 3 turni.
+special
+str
+x2
+
+Tonico dell’Anima Protetta
+Rende immuni ai danni magici per 2 turni.
+magic_DEF
+
+Frutto della Rinascita
+Rianima il consumatore se sconfitto nei successivi 3 turni.
+ress
+
+Pane dei Re
+Ripristina metà della salute.
+status
+60
+0
+
+Cioccolato delle Stelle
+Recupera una piccola parte di mana.
+status
+0
+20
+
+
+Acqua dell’Eternità
+Ripristina completamente salute e mana.
+status
+100
+100
+
+Birra dell’Urlo del Gigante
+Aumenta la potenza degli attacchi fisici per 2 turni, ma riduce la precisione.
+time
+dmg
+20
+30
+precision
+
+
+Rosa delle Mille Spine
+Infligge danni a chi attacca il consumatore.
+mirror
+
+

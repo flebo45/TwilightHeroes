@@ -1,0 +1,629 @@
+ Ombra Strisciante
+Una creatura amorfa fatta di pura oscurità, si muove silenziosamente e avvolge le sue vittime nel buio eterno.
+5
+5
+5
+5
+5
+5
+
+ Lupo della Nebbia
+Un lupo spettrale che si dissolve in una fitta nebbia quando viene attaccato, per poi riapparire alle spalle del nemico.
+5
+5
+5
+5
+5
+5
+
+Drago Fossile
+Un antico drago non morto, il cui corpo è costituito da ossa incrostate di pietra e minerali.
+5
+5
+5
+5
+5
+5
+
+ Gigante della Frana
+Un colosso di roccia vivente, capace di scatenare valanghe con un solo movimento.
+5
+5
+5
+5
+5
+5
+
+Mietitore delle Anime
+Una figura scheletrica con una falce incantata, si nutre delle anime dei caduti.
+5
+5
+5
+5
+5
+5
+
+Serpe Abissale
+Un enorme serpente marino che emerge dagli abissi per attaccare chiunque osi avvicinarsi alle sue acque.
+5
+5
+5
+5
+5
+5
+
+Cavaliere Maledetto
+Un guerriero corazzato eternamente legato alla sua arma maledetta, che lo guida in battaglia contro la sua volontà.
+5
+5
+5
+5
+5
+5
+
+Vermi del Deserto
+Giganteschi vermi che scavano tunnel sotto le dune, pronti a divorare chi si avventura nel loro territorio.
+5
+5
+5
+5
+5
+5
+
+Arpia delle Lame
+Una creatura alata con piume affilate come rasoi e un grido che paralizza i suoi nemici.
+5
+5
+5
+5
+5
+5
+
+ Custode del Labirinto
+Un essere minaccioso con corpo di toro e occhi che brillano di rosso, armato di un’ascia gigantesca.
+5
+5
+5
+5
+5
+5
+
+ Spettro Urlante
+Un fantasma tormentato il cui grido straziante può spezzare la volontà dei più coraggiosi.
+5
+5
+5
+5
+5
+5
+
+Idra Venefica
+Una creatura a più teste che sputa veleno mortale, con ogni testa capace di rigenerarsi rapidamente.
+5
+5
+5
+5
+5
+5
+
+Ragno della Cripta
+Un aracnide colossale che si nasconde nei cimiteri, avvolgendo le sue prede in ragnatele impregnate di magia oscura.
+5
+5
+5
+5
+5
+5
+
+ Golem di Cristallo
+Un colosso trasparente e scintillante, la cui pelle riflette la luce in accecanti raggi letali.
+5
+5
+5
+5
+5
+5
+
+Vampiro delle Ombre
+Un vampiro che si nutre non di sangue, ma dell’energia vitale delle sue vittime, lasciandole deboli e indifese.
+5
+5
+5
+5
+5
+5
+
+ Basilisco del Gelo
+Un lucertolone gigantesco il cui sguardo pietrifica e il cui respiro congela tutto ciò che tocca.
+5
+5
+5
+5
+5
+5
+
+ Fenice Oscura
+Un uccello di fuoco nero che risorge ogni volta più potente, lasciando dietro di sé solo cenere e disperazione.
+5
+5
+5
+5
+5
+5
+
+Troll della Palude
+Un essere massiccio che si mimetizza nel fango e si rigenera rapidamente, rendendolo difficile da uccidere.
+5
+5
+5
+5
+5
+5
+
+ Cacciatore Silente
+Una bestia simile a una pantera, invisibile all’occhio umano finché non è troppo tardi.
+5
+5
+5
+5
+5
+5
+
+ Demone del Caos
+Una creatura multiforme che cambia continuamente aspetto, confondendo e terrorizzando i suoi avversari.
+5
+5
+5
+5
+5
+5
+
+ Elementale della Tempesta
+Un’entità composta da pura energia, con un corpo fatto di fulmini e nubi temporalesche.
+5
+5
+5
+5
+5
+5
+
+ Serpente delle Radici
+Una creatura che si muove attraverso le radici degli alberi, avvolgendo le sue prede in un abbraccio soffocante.
+5
+5
+5
+5
+5
+5
+
+Guardia dell’Abisso
+Un enorme guerriero con un’armatura nera come la notte e occhi roventi come il magma.
+5
+5
+5
+5
+5
+5
+
+ Bestia Lunare
+Una creatura ferina che diventa sempre più forte sotto la luce della luna piena.
+5
+5
+5
+5
+5
+5
+
+ Vampiro Cremisi
+Un nobile decaduto trasformatosi in una creatura della notte, il cui mantello è macchiato del sangue delle sue vittime.
+5
+5
+5
+5
+5
+5
+
+Strega delle Ossa
+Una vecchia strega che colleziona ossa per creare creature scheletriche che combattono al suo fianco.
+5
+5
+5
+5
+5
+5
+
+Cinghiale Corazzato
+Un gigantesco cinghiale con placche ossee naturali, capace di travolgere tutto sul suo cammino.
+5
+5
+5
+5
+5
+5
+
+Chimera Selvaggia
+Una fusione mostruosa di leone, capra e serpente, con un alito infuocato e una coda velenosa.
+5
+5
+5
+5
+5
+5
+
+Guardiano delle Rovine
+Un costrutto antico lasciato a protezione di tesori dimenticati, attivato da intrusi.
+5
+5
+5
+5
+5
+5
+
+ Mantide Spettrale
+Un insetto gigante con arti affilati come spade, capace di muoversi in modo quasi invisibile.
+5
+5
+5
+5
+5
+5
+
+ Leviatano della Notte
+Un’enorme creatura marina che si muove silenziosamente sotto la superficie dell’acqua, attaccando senza preavviso.
+5
+5
+5
+5
+5
+5
+
+Avvoltoio Necrotico
+Un gigantesco uccello scheletrico che si ciba dei cadaveri sui campi di battaglia.
+5
+5
+5
+5
+5
+5
+
+ Serpe di Cenere
+Un serpente grigio come la cenere, che emette una polvere tossica ad ogni respiro.
+5
+5
+5
+5
+5
+5
+
+Demone delle Lame
+Una creatura demoniaca coperta di spade, in grado di scatenare una pioggia di fendenti devastanti.
+5
+5
+5
+5
+5
+5
+
+ Custode dell’Alveare
+Un essere gigantesco che protegge un nido di insetti carnivori, governandoli con un legame mentale.
+5
+5
+5
+5
+5
+5
+
+Sciacallo della Morte
+Una bestia scheletrica che vaga nei deserti, attirando le anime perdute con il suo ululato sinistro.
+5
+5
+5
+5
+5
+5
+
+Mietitore d’Ombre
+Un’entità oscura con un mantello fluttuante e una lama che sembra fatta di pura tenebra.
+5
+5
+5
+5
+5
+5
+
+ Golem del Magma
+Un colosso di roccia fusa, che cammina lasciando una scia di fuoco e distruzione.
+5
+5
+5
+5
+5
+5
+
+ Manticora Selvaggia
+Un’ibrida creatura con testa di leone, corpo di tigre e coda di scorpione, feroce e inarrestabile.
+5
+5
+5
+5
+5
+5
+
+ Gargoyle Urlante
+Una statua vivente che si risveglia per difendere antichi edifici, emettendo grida strazianti.
+5
+5
+5
+5
+5
+5
+
+Vermi della Putrefazione
+Piccoli ma letali vermi che divorano tutto ciò che toccano, lasciando solo ossa.
+5
+5
+5
+5
+5
+5
+
+ Fantasma della Regina Infelice
+Lo spirito di una regina tradita, che si aggira nel suo castello in cerca di vendetta.
+5
+5
+5
+5
+5
+5
+
+Incubo della Foresta
+Una creatura a metà tra l’albero e la bestia, che attacca chi osa addentrarsi nel suo dominio.
+5
+5
+5
+5
+5
+5
+
+ Scorpione d’Ossidiana
+Uno scorpione gigantesco con una corazza nera lucente e un pungiglione che emana veleno incandescente.
+5
+5
+5
+5
+5
+5
+
+ Colosso delle Rune
+Un guerriero di pietra animato da antiche rune magiche, praticamente invulnerabile alla magia.
+5
+5
+5
+5
+5
+5
+
+Sirena Infernale
+Una sirena con ali al posto della coda e artigli affilati, che attira le sue vittime con il canto.
+5
+5
+5
+5
+5
+5
+
+Ragno del Crepuscolo
+Un aracnide gigante che vive nelle ombre, capace di generare illusioni per confondere i nemici.
+5
+5
+5
+5
+5
+5
+
+ Cannibale del Bosco
+Un umanoide selvaggio che vive di carne umana, rapido e spietato nei suoi attacchi.
+5
+5
+5
+5
+5
+5
+
+ Salamandra del Fuoco
+Un rettile brillante come una fiamma viva, capace di incenerire chiunque si avvicini troppo.
+5
+5
+5
+5
+5
+5
+
+ Demone del Sangue
+Un’entità evocata dai sacrifici, che si nutre di sangue per diventare più potente.
+5
+5
+5
+5
+5
+5
+
+ Chimera delle Tempeste
+Una bestia alata che scatena fulmini e uragani con il suo ruggito.
+5
+5
+5
+5
+5
+5
+
+ Orso Corrotto
+Un enorme orso posseduto da forze oscure, con occhi che brillano di una luce maligna.
+5
+5
+5
+5
+5
+5
+
+ Anfisbena Venefica
+Un serpente a due teste che sputa veleno mortale da entrambe le bocche.
+5
+5
+5
+5
+5
+5
+
+ Custode del Portale
+Un gigante con un unico occhio che protegge l’accesso a regni dimenticati.
+5
+5
+5
+5
+5
+5
+
+Viverna Spettrale
+Una viverna eterea che si muove tra i regni dei vivi e dei morti.
+5
+5
+5
+5
+5
+5
+
+Iena del Terrore
+Un predatore che emette un riso sinistro per paralizzare le sue prede.
+5
+5
+5
+5
+5
+5
+
+ Driade Vendicativa
+Uno spirito della natura tradito dagli umani, che usa la foresta per scatenare la sua ira.
+5
+5
+5
+5
+5
+5
+
+ Fenice Inversa
+Una fenice maledetta che rinasce più debole e corrotta ogni volta che muore.
+5
+5
+5
+5
+5
+5
+
+ Drago di Zaffiro
+Un drago dalle scaglie blu scintillanti, maestro della magia dell’illusione.
+5
+5
+5
+5
+5
+5
+
+ Cavaliere del Vuoto
+Un guerriero senza volto avvolto in un’armatura nera, capace di manipolare le tenebre.
+5
+5
+5
+5
+5
+5
+
+ Sciame Corrotto
+Un’enorme massa di insetti carnivori che agisce come un’unica entità.
+5
+5
+5
+5
+5
+5
+
+ Gigante dell’Ondata
+Un titano marino che solleva maremoti per distruggere interi villaggi costieri.
+5
+5
+5
+5
+5
+5
+
+ Leprotto Maledetto
+Un coniglio apparentemente innocuo che si trasforma in una bestia assassina sotto la luna piena.
+5
+5
+5
+5
+5
+5
+
+ Viverna del Gelo
+Una creatura volante che soffia un vento gelido capace di congelare un’intera armata.
+5
+5
+5
+5
+5
+5
+
+ Ombra della Strega
+Un’entità intangibile evocata da incantesimi proibiti, che bracca senza sosta il suo evocatore.
+5
+5
+5
+5
+5
+5
+
+ Leone di Smeraldo
+Un felino maestoso con una criniera fatta di pietre preziose, feroce e protettivo.
+5
+5
+5
+5
+5
+5
+
+ Serafino Caduto
+Un angelo decaduto che brandisce una spada di fiamme nere.
+5
+5
+5
+5
+5
+5
+
+ Re delle Mummie
+Un antico faraone risorto con un esercito di non morti al suo comando.
+5
+5
+5
+5
+5
+5
+
+ Ombra del Tradimento
+Uno spirito che appare ogni volta che un giuramento viene infranto, punendo i responsabili.
+5
+5
+5
+5
+5
+5
+
+ Vermi delle Sabbie
+Creature gigantesche che divorano tutto ciò che si muove nel deserto.
+5
+5
+5
+5
+5
+5
